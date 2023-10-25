@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Microservices Using Docker & Kubernetes <br>👯 I’m looking to collaborate on Technical with DevOps<br>🌱 I’m currently learning Jenkins <br>💬 Ask me about Anything which is related to Java<br>
+🔭 Microservices with Docker and Kubernetes <br>👯 I’m looking to collaborate on Technical with DevOps<br>🌱 CI/CD using Jenkins <br>💬 Ask me about Anything which is related to Java<br>
 
 
 ## 🌐 Socials:
